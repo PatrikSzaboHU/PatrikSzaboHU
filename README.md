@@ -1,6 +1,6 @@
 # 😱 cablesalty
 ## JavaScript, Python, PHP. 
-#### Hello! 👋 I'm a full stack developer from Hungary🇭🇺! When I'm not coding, I either join a livestream and troll in the chat (the username "cablesalty" might be familiar because of this 😅), or I hang out with my friends IRL.
+#### A guy who comes up with ideas that move society backward.
 ----
 ### Projects:
 - 🗺️Flipper Map (WIP) - View registered Flipper Zeros around the world
