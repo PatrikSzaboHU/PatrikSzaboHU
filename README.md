@@ -1,6 +1,6 @@
 # 😱 cablesalty
 ## JavaScript, Python, PHP. 
-#### A guy who comes up with ideas that move society backward.
+#### A guy who comes up with ideas that moves society backwards.
 ----
 ### Projects:
 <!-- - 🗺️Flipper Map (WIP) - View registered Flipper Zeros around the world -->
