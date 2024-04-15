@@ -16,10 +16,10 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,apple" />
-  <img src="https://skillicons.dev/icons?i=vscodium,webstorm,phpstorm,idea" />
-  <img src="https://skillicons.dev/icons?i=javascript,php,python,dart,html,css" />
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,flutter,discord,discordjs" />
+  <img src="https://skillicons.dev/icons?i=git,github,apple" /><br>
+  <img src="https://skillicons.dev/icons?i=vscodium,webstorm,phpstorm,idea" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,php,python,dart,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,flutter,discord,discordjs" /><br>
 </div>
 
 ###
