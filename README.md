@@ -16,15 +16,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,apple" /><br>
-  <img src="https://skillicons.dev/icons?i=vscodium,webstorm,phpstorm,idea" /><br>
-  <img src="https://skillicons.dev/icons?i=javascript,php,python,dart,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,flutter,discord,discordjs" /><br>
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.paypal.com/paypalme/cablesalty" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
@@ -32,9 +23,5 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
 
 ###
