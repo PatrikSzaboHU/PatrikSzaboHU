@@ -1,27 +1,15 @@
-<h2 align="center">👋 Hello! I'm cablesalty!</h2>
+# Hello! 👋 I'm cablesalty!
+![View Count](https://komarev.com/ghpvc/?username=cablesalty&)
+[![Website Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcablesalty.com%2Fshield_online.json&query=%24.status&label=Website&color=green)](https://img.shields.io/website?url=https%3A%2F%2Fcablesalty.com&up_message=Online&down_message=Offline&label=Website)
+![Twitch Status](https://img.shields.io/twitch/status/cablesalty)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cablesalty)
 
-###
+## A bit about me
+My name is Patrik and I live in Budapest, Hungary. I'm a high school student studying software development. I mostly code in PHP, JavaScript or Python. I speak English as a second language and I want to learn Russian in the future.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cablesalty&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cablesalty&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cablesalty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.paypal.com/paypalme/cablesalty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  </a>
-  <a href="https://t.me/cablesalty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
+## Projects
+- 🔇[Frozen Mouth](https://github.com/cablesalty/frozenmouth): A Chrome extension that automatically mutes KSI's "Thick Of It" song.
+- 📱[companion2](https://github.com/cablesalty/companion2): A mobile/web companion app for Counter-Strike 2.
+- 🫥[PanicButton](https://github.com/cablesalty/PanicButton): An app that overlays a website or a fake desktop on your screen with the press of a button.
+- 🔔[PearFound](https://github.com/cablesalty/PearFound): Get a cool notification when Pearoo starts a livestream.
+- (...) and much more!
