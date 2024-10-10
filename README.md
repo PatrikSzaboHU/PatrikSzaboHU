@@ -1,8 +1,8 @@
 # Hello! 👋 I'm cablesalty!
 ![View Count](https://komarev.com/ghpvc/?username=cablesalty&)
-[![Website Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcablesalty.com%2Fshield_online.json&query=%24.status&label=Website&color=green)](https://img.shields.io/website?url=https%3A%2F%2Fcablesalty.com&up_message=Online&down_message=Offline&label=Website)
-![Twitch Status](https://img.shields.io/twitch/status/cablesalty)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cablesalty)
+[![Site Status](https://img.shields.io/website?url=https%3A%2F%2Fcablesalty.com&up_message=Online&down_message=Offline&label=Website)](https://cablesalty.com)
+[![Twitch Status](https://img.shields.io/twitch/status/cablesalty)](https://twitch.tv/cablesalty)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cablesalty)](https://x.com/cablesalty)
 
 ## A bit about me
 My name is Patrik and I live in Budapest, Hungary. I'm a high school student studying software development. I mostly code in PHP, JavaScript or Python. I speak English as a second language and I want to learn Russian in the future.
