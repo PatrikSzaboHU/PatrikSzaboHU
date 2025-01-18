@@ -9,7 +9,6 @@
 - 🔇[Frozen Mouth](https://github.com/cablesalty/frozenmouth): A Chrome extension that automatically mutes KSI's "Thick Of It" song.
 - 📱[companion2](https://github.com/cablesalty/companion2): A mobile/web companion app for Counter-Strike 2.
 - 🫥[PanicButton](https://github.com/cablesalty/PanicButton): An app that overlays a website or a fake desktop on your screen with the press of a button.
-- 🔔[PearFound](https://github.com/cablesalty/PearFound): Get a cool notification when Pearoo starts a livestream.
 - (...) and much more!
 
 ![achievement](https://user-images.githubusercontent.com/79142358/201485976-659bcdc0-75ed-4609-8dc4-7ca4ffd2ff7a.png)
