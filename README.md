@@ -11,8 +11,8 @@
 - (...) and much more!
 
 ## Skills and Experience  
-- 🔹 **Backend Development:** Node.js (Express), Python (Flask), Java (Spring Boot), PHP, Discord.js  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,php,discordjs" />  
+- 🔹 **Backend Development:** Node.js (Express, Discord.js), Python (Flask), Java (Spring Boot), PHP  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,python,flask,java,spring,php" />  
 
 - 🔹 **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, jQuery, React,  
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react" />  
