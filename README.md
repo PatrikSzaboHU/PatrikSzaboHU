@@ -15,8 +15,8 @@
 - 🔹 **Backend Development:** Node.js (Express, Discord.js), Python (Flask), Java (Spring Boot), PHP  
   <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,python,flask,java,spring,php" />  
 
-- 🔹 **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, jQuery, React,  
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react" />  
+- 🔹 **Frontend Development:** HTML, CSS, Bootstrap, JavaScript, jQuery, React, Svelte  
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react,svelte" />  
 
 - 🔹 **Mobile App Development:** PWA, Cordova, React Native, Swift  
   <img src="https://skillicons.dev/icons?i=html,react,swift" />  
