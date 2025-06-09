@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,vim" />
 
 ## Get in touch
-- Discord: @cablesalty
 - Email: [cablesalty@gmail.com](mailto:cablesalty@gmail.com)
 - Twitter: [@PatrikSzaboHU](https://x.com/PatrikSzaboHU)
 
