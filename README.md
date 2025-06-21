@@ -4,8 +4,8 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/PatrikSzaboHU)](https://x.com/PatrikSzaboHU)
 
 ## Projects
-- 👥 [Cats are Liquid Multiplayer](https://github.com/PatrikSzaboHU/CatsAreLiquid_Multiplayer): A multiplayer mod for the game Cats are Liquid: A Better Place.
 - ⭐ **[Iskola Értékelő](https://iskolaertekelo.hu/): Anonymous and honest platform to share your thoughts and experiences about your school.**
+- 👥 [Cats are Liquid Multiplayer](https://github.com/PatrikSzaboHU/CatsAreLiquid_Multiplayer): A multiplayer mod for the game Cats are Liquid: A Better Place.
 - 🧽 [Sponge Router](https://github.com/PatrikSzaboHU/SpongeRouter): A lightweight client-side page switching system for making Single Page Applications.
 - 📱 [companion2](https://github.com/PatrikSzaboHU/companion2): A mobile/web companion app for Counter-Strike 2 *(work-in-progress)*.
 - 🫥 [PanicButton](https://github.com/PatrikSzaboHU/PanicButton): An app that overlays a website or a fake desktop on your screen with the press of a button.
