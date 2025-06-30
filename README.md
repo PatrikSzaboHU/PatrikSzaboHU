@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Patrik!
 ![View Count](https://komarev.com/ghpvc/?username=cablesalty&)
-[![Twitch Status](https://img.shields.io/twitch/status/PatrikSzaboHU)](https://twitch.tv/PatrikSzaboHU)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/PatrikSzaboHU)](https://x.com/PatrikSzaboHU)
+[![Twitch Status](https://img.shields.io/twitch/status/cablesalty)](https://twitch.tv/cablesalty)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cablesalty)](https://x.com/cablesalty)
 
 ## Projects
 - ⭐ **[Iskola Értékelő](https://iskolaertekelo.hu/): Anonymous and honest platform to share your thoughts and experiences about your school.**
@@ -35,7 +35,7 @@
 
 ## Get in touch
 - Email: [cablesalty@gmail.com](mailto:cablesalty@gmail.com)
-- Twitter: [@PatrikSzaboHU](https://x.com/PatrikSzaboHU)
+- Twitter: [@cablesalty](https://x.com/cablesalty)
 
 
 ![achievement](https://user-images.githubusercontent.com/79142358/201485976-659bcdc0-75ed-4609-8dc4-7ca4ffd2ff7a.png)
